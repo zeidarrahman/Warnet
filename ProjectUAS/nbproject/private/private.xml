@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/projectuas/model/Voucher.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>6</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/controller/PaketController.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/controller/KomputerController.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/LoginFrame.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/LogActivityFrame.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/controller/AdminController.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/model/Manusia.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/PaketFrame.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/KomputerFrame.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/model/AllObject.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/MenuAdminFrame.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/model/Kasir.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/KasirFrame.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/model/Voucher.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/model/Komputer.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/controller/LogActivityController.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/ProjectUAS.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/model/Paket.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/Database/Koneksi.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/model/Admin.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/controller/getData.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/controller/KasirController.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/VoucherFrame.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/view/MainFrame.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/model/LogActivity.java</file>
+            <file>file:/C:/Users/ZEIDAR/Documents/NetBeansProjects/ProjectUAS/src/projectuas/controller/VoucherController.java</file>
+        </group>
+    </open-files>
+</project-private>
